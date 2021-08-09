@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62377523950",
+    "project_id": "satara-app",
+    "storage_bucket": "satara-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62377523950:android:05d0fddcbb2bdab89891ff",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62377523950-f9v2bttec0vo37c37iojkgid8bt44059.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4BMkUiTKIDjoIuYBt6N-jb8x-1pE28Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62377523950-f9v2bttec0vo37c37iojkgid8bt44059.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
